@@ -22,7 +22,7 @@ const Profile = () => {
               {user.name}
             </h3>
             <div className="text-center text-gray-400 text-xs font-semibold">
-              <p>Web Developer</p>
+              <p>Web Developer   .</p>
             </div>
             <table className="text-xs my-3">
               <tbody>
